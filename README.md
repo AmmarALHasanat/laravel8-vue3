@@ -85,7 +85,7 @@ php artisan key:generate
 ```
 php artisan serve
 ```
-### Customize configuration
+### Learning vue.js
 See [Configuration Reference](https://vuejs.org/).
 
 # rest-system-laravel-vue
