@@ -78,7 +78,7 @@ npm install
 npm run serve
 ```
 ```
-php aritsan serve
+php artisan serve
 ```
 
 ### Compiles and minifies for production
