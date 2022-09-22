@@ -86,4 +86,6 @@ php artisan key:generate
 php artisan serve
 ```
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).# rest-system-laravel-vue
+See [Configuration Reference](https://cli.vuejs.org/config/).
+
+# rest-system-laravel-vue
